@@ -1,0 +1,5 @@
+Root mean square errors
+
+Global Nearest Neighbor (GNN)        : 6.674
+Joint Probabilistic Data Association : 6.530
+Multiple Hypothesis Tracking         : 6.681
